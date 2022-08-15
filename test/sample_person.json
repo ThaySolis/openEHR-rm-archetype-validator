@@ -1,0 +1,42 @@
+{
+    "name": {
+        "_type": "DV_TEXT",
+        "value": "Nome"
+    },
+    "archetype_node_id": "at0000.1",
+    "identities": [
+        {
+            "name": {
+                "_type": "DV_TEXT",
+                "value": "Nome"
+            },
+            "archetype_node_id": "at0002.1",
+            "details": {
+                "name": {
+                    "_type": "DV_TEXT",
+                    "value": "Nome"
+                },
+                "_type": "ITEM_LIST",
+                "archetype_node_id": "???"
+            }
+        }
+    ],
+    "contacts": [
+        {
+            "name": {
+                "_type": "DV_TEXT",
+                "value": "Nome"
+            },
+            "archetype_node_id": "at0003.1",
+            "addresses": []
+        }
+    ],
+    "details": {
+        "_type": "ITEM_TREE",
+        "name": {
+            "_type": "DV_TEXT",
+            "value": "Nome"
+        },
+        "archetype_node_id": "at0000"
+    }
+}

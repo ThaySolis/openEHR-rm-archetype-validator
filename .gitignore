@@ -1,0 +1,8 @@
+# Python bytecode folders.
+__pycache__
+
+# Virtual environment folder.
+/venv
+
+# Output folder.
+/output
